@@ -4,17 +4,17 @@
 - Currently, I am interested in web development and system architecture.
 - Contact with me :mailbox_with_mail::
 <div align="center">
-<a href="mailto:hieu.pt183535@gmail.com">
+<a href="mailto:hieu.pt183535@gmail.com" style="text-decoration: none !important;">
   <img align="center" alt="Hieu's Gmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" title="Hieu's Gmail"/>
   &nbsp;&nbsp;&nbsp;
 </a>
 
-<a href="https://www.facebook.com/me.pthieu">
+<a href="https://www.facebook.com/me.pthieu" style="text-decoration: none !important;">
   <img align="center" alt="Hieu's Facebook" width="25px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/facebook_icon_130940.png" title="Hieu's Facebook"/>
   &nbsp;&nbsp;&nbsp;
 </a>
 
-<a href="https://www.linkedin.com/in/pthieu2000/">
+<a href="https://www.linkedin.com/in/pthieu2000/" style="text-decoration: none !important;">
   <img align="center" alt="Hieu's Linkedin" width="25px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" alt="Hieu's Linkedin"/>
 </a>
 
@@ -23,17 +23,16 @@
 
 
 ---
-### Knowledge and skills 📖:
+### Knowledge and skills 📖📖📖
 
 <details>
 <summary> See details </summary>
-
-- HTML, SASS/CSS, Javascript
-- JQuery, React, Vuejs
-- OOP, C#
-- ASP.NET Core, Rest API
-- MySQL, MariaDB
-- Redis
+- Web development
+- Core knowledge: Network, Data Structure & Algorithm, OOP,...
+- Front-end: HTML, SASS/CSS, Vanilla Javascript, JQuery, React, Vuejs,...
+- Back-end: Node.js, C#, ASP.NET Core, Restful API,...
+- Database: MySQL, MariaDB,...
+- Other: Redis, AWS,...
 - ...
 
 </details>
