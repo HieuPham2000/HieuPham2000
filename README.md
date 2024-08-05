@@ -1,43 +1,35 @@
-<h1 align="center">Hi, I'm Hieu 👋</h1>
+<h1 align="center">Hi, I'm Hieu 👋 </h1>
 <h3 align="center">A software engineer who pursues building useful software systems</h3>
 
-- Currently, I am interested in web development and system architecture.
-- Contact with me :mailbox_with_mail::
-<div align="center">
-<a href="mailto:hieu.pt183535@gmail.com" style="text-decoration: none !important;">
-  <img align="center" alt="Hieu's Gmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" title="Hieu's Gmail"/>
-  &nbsp;&nbsp;&nbsp;
-</a>
+![](https://komarev.com/ghpvc/?username=HieuPham2000)
 
-<a href="https://www.facebook.com/me.pthieu" style="text-decoration: none !important;">
-  <img align="center" alt="Hieu's Facebook" width="25px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/facebook_icon_130940.png" title="Hieu's Facebook"/>
-  &nbsp;&nbsp;&nbsp;
-</a>
+### About me
 
-<a href="https://www.linkedin.com/in/pthieu2000/" style="text-decoration: none !important;">
-  <img align="center" alt="Hieu's Linkedin" width="25px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" alt="Hieu's Linkedin"/>
-</a>
+Currently, I am interested in web development and system architecture.
 
-</div>
+### How to reach me 📫
 
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pthieu1/)
+[![image](https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fb.pthieu1/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hieu.pt183535@gmail.com)
 
+### Knowledge and skills 📖
 
----
-### Knowledge and skills 📖📖📖
-
-<details>
-<summary> See details </summary>
 - Web development
 - Core knowledge: Network, Data Structure & Algorithm, OOP,...
-- Front-end: HTML, SASS/CSS, Vanilla Javascript, JQuery, React, Vuejs,...
-- Back-end: Node.js, C#, ASP.NET Core, Restful API,...
-- Database: MySQL, MariaDB,...
+- Front-end: HTML, SASS/CSS, Vanilla Javascript, JQuery, React,...
+- Back-end: Meteorjs, Node.js, C#, ASP.NET Core, Restful API,...
+- Database: MySQL, MariaDB, MongoDB...
 - Other: Redis, AWS,...
 - ...
 
-</details>
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,jquery,react)](https://skillicons.dev)
 
----
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,npm)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=redis,mysql,mongodb)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,unity,git,github,postman)](https://skillicons.dev)
 
 ### Github Activities :runner: :runner: :runner:
 
