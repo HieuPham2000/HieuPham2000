@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Hieu 👋 </h1>
+<h6 align="center">You also can call me Alex (Alex Pham)</h1>
 <h3 align="center">A software engineer who pursues building useful software systems</h3>
 
 ![](https://komarev.com/ghpvc/?username=HieuPham2000)
@@ -12,6 +13,10 @@ Currently, I am interested in web development and system architecture.
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pthieu1/)
 [![image](https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fb.pthieu1/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hieu.pt183535@gmail.com)
+
+Look at my other Github Account: [AlexPham-HIVO](https://github.com/AlexPham-HIVO)
+
+[![image](https://img.shields.io/badge/GitHub-1f2328?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexPham-HIVO)
 
 ### Knowledge and skills 📖
 
@@ -44,4 +49,3 @@ Currently, I am interested in web development and system architecture.
 </a>
 
 </div>
-
